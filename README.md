@@ -1,2 +1,2 @@
 # SNMD
-social-networks-media-downlaoder-platform
+social-networks-media-downloader-platform
